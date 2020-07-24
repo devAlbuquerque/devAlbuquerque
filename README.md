@@ -1,16 +1,15 @@
-### Hi there 👋
+# Antonio Erismar :man_technologist:
 
-<!--
-**devAlbuquerque/devAlbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Welcome to my profile
 
-Here are some ideas to get you started:
+ -  :heart_eyes: enthusiast in the world of the development technologies.
+ -  :star2: Skills: da uma olhadinha no [da uma olhadinha](https://github.com/devAlbuquerque/curriculum-vitae/blob/master/README.md)
+ -  :books: Currently learning Spring, Node.js, React and React Native 
+ 
+ 
+ ----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-devAlbuquerque-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devAlbuquerque)](https://github.com/devAlbuquerque)
+[![Linkedin Badge](https://img.shields.io/badge/-Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioerismar/)](https://www.linkedin.com/in/antonioerismar/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio.erismar@gmail.com)](mailto:antonio.erismar@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@albuquerque_mazza-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/albuquerque_mazza/)](https://www.instagram.com/albuquerque_mazza/)
