@@ -4,7 +4,7 @@
 
  -  :heart_eyes: enthusiast in the world of the development technologies.
  -  :star2: Skills: da uma olhadinha no [da uma olhadinha](https://github.com/devAlbuquerque/curriculum-vitae/blob/master/README.md)
- -  :books: Currently learning Spring, Node.js, React and React Native 
+ -  :books: Currently learning Spring (Microservices), NodeJS and ReactJS 
  
  
  ----
